@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DustiniaDelixia Groceria — Finance Analyst Data Pipeline
 
 ## 1. Project Overview
@@ -938,4 +937,4 @@ Name        : Adelia Tanalina Yumna
 Role        : Finance Analyst
 Project     : Final Project Lab MCI 2026
 ```
->>>>>>> 9dd5d39957c672a4f87a0cda40b13386bdb3a24b
+

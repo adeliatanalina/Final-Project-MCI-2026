@@ -305,9 +305,9 @@ This section explains the final dashboard created in Metabase. You can add dashb
 
 The main dashboard displays a finance performance summary from the perspective of payments, high-value customers, payment methods, installments, and regional contribution.
 
-```
+<img width="800" height="842" alt="Screenshot 2026-06-10 at 19 49 43" src="https://github.com/user-attachments/assets/54de5ced-ecf2-4f98-89b9-10736c453585" />
+<img width="800" height="322" alt="Screenshot 2026-06-10 at 19 49 57" src="https://github.com/user-attachments/assets/e1321348-ec5c-47ca-b6fc-a2e158e63f6b" />
 
-```
 
 ---
 
@@ -326,9 +326,8 @@ The displayed KPIs are:
 
 These KPIs are placed at the top so users can immediately understand the overall finance performance before looking at more detailed analysis.
 
-```
+<img width="1118" height="207" alt="Screenshot 2026-06-10 at 19 54 21" src="https://github.com/user-attachments/assets/25f9efa0-3c9e-464f-82b2-3f25ab774d01" />
 
-```
 
 ---
 
@@ -348,11 +347,7 @@ To monitor payment value growth and transaction movement over time.
 
 If total payment value increases together with total orders, then revenue growth is likely driven by an increase in transaction volume. However, if payment value increases without a significant increase in orders, average order value may be the main factor.
 
-> Add the Monthly Payment Value Trend chart screenshot here:
-
-```
-
-```
+<img width="942" height="495" alt="Screenshot 2026-06-10 at 21 46 20" src="https://github.com/user-attachments/assets/b94d8963-e008-44e6-9b46-e42242691f3d" />
 
 ---
 
@@ -379,9 +374,9 @@ To compare payment methods based on total revenue contribution and average trans
 
 If credit cards have high total payment value and average payment value, the company can prioritize optimizing the credit card payment experience.
 
-```md
+<img width="882" height="459" alt="Screenshot 2026-06-10 at 21 50 48" src="https://github.com/user-attachments/assets/d0e975f1-bd93-4ef5-a3df-cd8c624baf31" />
+<img width="879" height="462" alt="Screenshot 2026-06-10 at 21 50 59" src="https://github.com/user-attachments/assets/1661246e-ba0f-43bd-8344-f4f7c5b5fdfb" />
 
-```
 
 ---
 
@@ -401,9 +396,7 @@ To evaluate whether installment payment options are associated with higher payme
 
 If certain installment groups generate higher average payment value, the company can run special campaigns to encourage installment usage for high-value transactions.
 
-```md
-
-```
+<img width="879" height="462" alt="Screenshot 2026-06-10 at 21 51 46" src="https://github.com/user-attachments/assets/2b63826c-273f-4af2-9e81-deb6603bdd67" />
 
 ---
 
@@ -430,9 +423,8 @@ To understand the revenue contribution and payment preference of high-value cust
 
 If high-value customers use credit cards more frequently, then promotional strategies for this segment should focus on credit card benefits, installments, or special cashback.
 
-```md
-
-```
+<img width="641" height="448" alt="Screenshot 2026-06-10 at 21 52 31" src="https://github.com/user-attachments/assets/6f1e2325-1d2f-4ed5-a326-75a9128a3c5a" />
+<img width="641" height="448" alt="Screenshot 2026-06-10 at 21 52 39" src="https://github.com/user-attachments/assets/818b6d92-bb59-49af-8c53-207a569f3eb9" />
 
 ---
 
@@ -457,9 +449,9 @@ To identify high-performing regions and potential areas for payment optimization
 
 Regions with high payment value can be prioritized for finance campaigns. Meanwhile, regions with high revenue per customer can be considered as targets for a premium customer strategy.
 
-```md
+<img width="640" height="502" alt="Screenshot 2026-06-10 at 21 53 37" src="https://github.com/user-attachments/assets/60378fd3-6bd9-48f8-9f53-51e09576dce6" />
+<img width="640" height="502" alt="Screenshot 2026-06-10 at 21 53 44" src="https://github.com/user-attachments/assets/33e1c2e4-5997-4ae3-a7d3-65047ca89a7b" />
 
-```
 
 ---
 
@@ -659,8 +651,7 @@ Overall, this dashboard can help the Finance team make more data-driven decision
 ## 17. Author
 
 ```text
-Name        : [Your Name]
+Name        : Adelia Tanalina Yumna
 Role        : Finance Analyst
 Project     : Final Project Lab MCI 2026
-Institution : [Your Institution]
 ```

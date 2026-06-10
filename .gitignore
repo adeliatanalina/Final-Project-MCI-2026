@@ -1,0 +1,10 @@
+data/*.csv
+data_lake/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+airflow.cfg
+airflow.db
+webserver_config.py
